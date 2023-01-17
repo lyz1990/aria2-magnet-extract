@@ -1,0 +1,11 @@
+[package]
+name = "aria2_magnet_extract"
+version = "0.1.0"
+edition = "2021"
+authors = ["Li Yuanzheng <i@yuanzheng.li>"]
+description = "A simple command line tool in Rust to extract magnet links from Aria2c control files (.aria2)."
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
