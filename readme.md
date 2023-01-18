@@ -17,7 +17,7 @@ magnet:?xt=urn:btih:<hash>
 
 ## Build and Run
 
-You can use `cargo run <path-to-aria2-file>` to build and run the project.
+You can use `cargo run -- <path-to-aria2-file>` to build and run the project.
 
 ## Note
 
