@@ -1,6 +1,7 @@
 # Aria2 Magnet Extract
 
-This is a simple command line tool for extracting the magnet link from an Aria2 control file. It is written for
+This is a simple command line tool for extracting the magnet link from an Aria2 control file. Use it to recover magnet
+links when aria2c download was interrupted, but the original link was lost. It is written for
 educational purposes and to demonstrate the usage of Rust programming language.
 
 ## Usage
